@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Shivam Sharma
 
-### 📊 Data Analyst | 🌐 Full Stack Web Developer | 🤖 Generative AI
+### 📊 Data Analyst | 🌐 Full Stack Web Developer with 🤖 Generative AI
 
 > **Turning data into insights, ideas into products, and products into intelligent digital solutions.**
 
-I’m a technology-focused professional with a primary focus on **Data Analytics**, complemented by hands-on experience in **Full Stack Web Development and Generative AI**.
+I’m a technology-focused professional with a **primary ( main )** focus on **Data Analytics**, **complemented by** hands-on experience in **Full Stack Web Development with Generative AI**.
 
 I enjoy solving real-world problems through data, software, automation, and intelligent applications.
 
@@ -15,10 +15,10 @@ I enjoy solving real-world problems through data, software, automation, and inte
 - 📊 Primary focus: **Data Analytics & Business Intelligence**
 - 🌐 Full Stack: **Frontend + Backend + Databases + APIs**
 - 🤖 Generative AI: **AI-powered applications, API integration & automation**
-- 📈 Interested in transforming raw data into actionable insights
-- 🧠 Passionate about solving practical problems through technology
-- ⚙️ Interested in automation, SaaS, digital products and intelligent systems
-- 🔐 Focused on performance, security, scalability and user experience
+- 📈 Interested in **transforming raw data into actionable insights**
+- 🧠 Passionate about **solving practical problems through technology**
+- ⚙️ Interested in **automation, SaaS, digital products and intelligent systems**
+- 🔐 Focused on **performance, security, scalability and user experience**
 
 ---
 
